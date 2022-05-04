@@ -45,7 +45,7 @@ h1{
 .btn button:focus{
     background-color:  hsl(216, 12%, 54%);
     color: white;
-    border: none !important;
+  
 }
 h1{
     font-weight: 700;
@@ -70,4 +70,18 @@ p{
 .sub:hover{
     color:hsl(25, 97%, 53%) ;
     background-color: white;
+}
+.feedback{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+#num{
+    color: hsl(25, 97%, 53%);
+    background-color: hsl(210, 16%, 24%);
+    width:200px;
+    border: none;
+    border-radius: 20px;
+display: block;
+margin: 0 auto;
 }
