@@ -1,0 +1,12 @@
+.container{
+    background-color: hsl(213, 19%, 18%);
+}
+img{
+    
+}
+.btn button , img{
+     border-radius: 50%;
+    background-color: hsla(216, 12%, 54%, 0.501);
+    padding: 13px;
+    border: none;
+}
