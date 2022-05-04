@@ -8,7 +8,7 @@ body{
     font-family: 'Overpass', sans-serif;
     margin: 0 auto;
     width:400px ;
-    padding:20px;
+    padding:25px;
     margin-top: 150px;
     border-radius: 30px;
 }
@@ -24,6 +24,7 @@ h1{
     border: none;
       color: hsl(217, 12%, 63%);
 }
+
 .btn{
     display: flex;
     justify-content: space-around;
@@ -35,6 +36,16 @@ h1{
     width: 50px;
     height: 50px;
     
+}
+.btn button:hover{
+    background-color: hsl(25, 97%, 53%);
+    color: white;
+    transition: all 200ms ease-in-out;
+}
+.btn button:focus{
+    background-color:  hsl(216, 12%, 54%);
+    color: white;
+    border: none !important;
 }
 h1{
     font-weight: 700;
@@ -52,7 +63,11 @@ p{
     background-color: hsl(25, 97%, 53%);
     border: none;
     border-radius: 18px;
-    padding:8px 12px ;
+    padding:10px 12px 6px 12px ;
     width:100% ;
     letter-spacing: 2px;
+}
+.sub:hover{
+    color:hsl(25, 97%, 53%) ;
+    background-color: white;
 }
