@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Screenshot
 
-![![Screenshot 2022-05-04 at 22-09-32 Frontend Mentor Interactive rating component](https://user-images.githubusercontent.com/74629257/166920099-ee464e47-729e-429f-97d2-b85befb0c649.png)
-](./screenshot.jpg)
+![Screenshot 2022-05-04 at 22-09-32 Frontend Mentor Interactive rating component](https://user-images.githubusercontent.com/74629257/166921026-abf33af6-0b48-4e5c-b60e-74abf2fd12c7.png)
+
 
 
 ### Links
